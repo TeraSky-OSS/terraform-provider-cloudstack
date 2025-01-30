@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CloudStack: cloudstack_user"
+page_title: "CloudStack: cloudstack_user"
 sidebar_current: "docs-cloudstack-resource-user"
 description: |-
     Creates a User
