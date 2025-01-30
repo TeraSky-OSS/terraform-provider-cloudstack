@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CloudStack: cloudstack_service_offering"
+page_title: "CloudStack: cloudstack_service_offering"
 sidebar_current: "docs-cloudstack-resource-service_offering"
 description: |-
     Creates a Service Offering
